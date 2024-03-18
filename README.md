@@ -1,6 +1,6 @@
 # camera_app
 
-It's an app that uses camera and Ai model to detect objects. It do auto zoom if the detected object is a dog or a cat.
+It's an app that uses camera and Ai model to detect objects. It does auto zoom if the detected object is a dog or a cat.
 
 # plugins used
 - camera
